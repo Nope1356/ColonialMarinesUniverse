@@ -200,8 +200,8 @@
     description: rmc-xeno-vampire-description
     popup: rmc-xeno-vampire-popup
   - type: CMArmor
-    xenoArmor: 20
-    explosionArmor: 20
+    xenoArmor: 15
+    explosionArmor: 15
   - type: XenoPlasma
     plasma: 0
     maxPlasma: 0
